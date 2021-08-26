@@ -1,0 +1,14 @@
+{
+  "author": "Daiki Onozuka",
+  "dependencies": {
+  },
+  "description": "Dono Utilities for Unity",
+  "displayName": "DonoUtilitiesForUnity",
+  "keywords": [ "unity" ],
+  "license": "Unlicense",
+  "name": "com.donozuka.utilitiesforunity",
+  "repository": "github:DO-Nozuka/MyUtilities",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "version": "0.0.2"
+}
